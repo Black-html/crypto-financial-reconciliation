@@ -1,0 +1,14 @@
+{
+  "project": "Crypto Financial Reconciliation",
+  "export_date": "2026-04-19 12:14:32",
+  "database": "CryptoAnalytics",
+  "total_queries": 6,
+  "files_exported": [
+    "01_reconciliation_summary",
+    "02_daily_discrepancy_trend",
+    "03_sample_transactions",
+    "04_financial_impact_by_date",
+    "05_blockchain_summary_stats",
+    "06_internal_records_summary"
+  ]
+}
