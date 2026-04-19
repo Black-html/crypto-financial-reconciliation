@@ -22,9 +22,13 @@ Automated reconciliation system comparing **real blockchain data** (Etherscan AP
 
 ##  Repository Structure
 ├── outputs/ # All CSV results
+
 ├── pull_eth_data.py # ETL pipeline
+
 ├── export_all_results.py # Automated exports
+
 ├── reconciliation_queries.sql # All T-SQL queries
+
 └── README.md
 
 
