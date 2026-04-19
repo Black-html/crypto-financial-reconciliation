@@ -1,5 +1,7 @@
 #  Crypto Financial Reconciliation Pipeline
 
+🔗 **Live Interactive Dashboard:** [View on Dune Analytics](https://dune.com/dybg/crypto-financial-reconciliation)
+
 ##  Project Overview
 Automated reconciliation system comparing **real blockchain data** (Etherscan API) against **simulated internal records** to identify financial discrepancies.
 
